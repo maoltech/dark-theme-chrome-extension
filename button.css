@@ -1,0 +1,16 @@
+button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.hover button{
+    background-color: green;
+}
+
+.onclick button{
+    background-color: gray;
+}
